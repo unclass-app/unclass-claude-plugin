@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "unclass": {
+      "type": "http",
+      "url": "https://school.unclass.app/mcp"
+    }
+  }
+}

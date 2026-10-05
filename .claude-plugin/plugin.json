@@ -1,0 +1,24 @@
+{
+  "name": "unclass",
+  "displayName": "Unclass",
+  "version": "1.0.0",
+  "description": "Draft, review, and edit language lessons in your Unclass school with guided lesson-authoring workflows.",
+  "author": {
+    "name": "Unclass",
+    "url": "https://unclass.app"
+  },
+  "homepage": "https://unclass.app/docs/claude",
+  "repository": "https://github.com/unclass-app/unclass-claude-plugin",
+  "license": "Unlicense",
+  "icon": "./icon.png",
+  "documentationUrl": "https://unclass.app/docs/claude",
+  "supportUrl": "https://unclass.app/support",
+  "privacyPolicyUrl": "https://unclass.app/privacy",
+  "termsOfServiceUrl": "https://unclass.app/terms",
+  "keywords": [
+    "education",
+    "language-teaching",
+    "lessons",
+    "unclass"
+  ]
+}
